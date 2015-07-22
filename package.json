@@ -31,7 +31,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/spirit/s2.git"
+    "url": "https://api.github.com/spirit/s2.git"
   },
   "author": "spirit",
   "license": ""
